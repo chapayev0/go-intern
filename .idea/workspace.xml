@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c72e31b-cf75-4f16-ba90-f2e7870e870d" name="Changes" comment="main py file" />
+    <list default="true" id="4c72e31b-cf75-4f16-ba90-f2e7870e870d" name="Changes" comment="create ui" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676805148168</updated>
-      <workItem from="1676805150216" duration="1300000" />
+      <workItem from="1676805150216" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="main py file">
       <created>1676805660281</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676805660281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create ui">
+      <created>1676806744446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676806744446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +122,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="main py file" />
+    <MESSAGE value="create ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ui" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/go_intern$main.coverage" NAME="main Coverage Results" MODIFIED="1676806710015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

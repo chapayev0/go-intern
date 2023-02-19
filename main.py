@@ -6,8 +6,17 @@ from PySide2.QtWidgets import *
 from PySide2.QtCore import *
 
 from ui.ui_main import *
+from ui.ui_login import *
 
 import os
+
+class login_ui(QMainWindow):
+
+    def __init__(self):
+
+        QMainWindow.__init__(self)
+        self.ui = Ui_login()
+        self.ui.setupUi(self)
 
 class main_ui(QMainWindow):
 
@@ -23,7 +32,7 @@ if __name__ == '__main__':
 
     app = QApplication(sys.argv)
 
-    window = main_ui()
+    window = login_ui()
 
     window.show()
     sys.exit(app.exec_())
